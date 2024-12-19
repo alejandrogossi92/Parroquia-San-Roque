@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Negocios.DopplerRelay.WebApi", "Retail.Negocios.DopplerRelay.WebApi\Retail.Negocios.DopplerRelay.WebApi.csproj", "{FAFFB6F3-8C3D-4562-8E32-FF4428930D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Negocios.DopplerRelay.Repository", "Retail.Negocios.DopplerRelay.Repository\Retail.Negocios.DopplerRelay.Repository.csproj", "{E5FF6322-0F9B-48DB-891B-EEFB5F6B7140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Negocios.DopplerRelay.Model", "Retail.Negocios.DopplerRelay.Model\Retail.Negocios.DopplerRelay.Model.csproj", "{5616AE1C-B888-4091-A6AC-D96919D7F801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retail.Negocios.DopplerRelay.Infrastructure", "Retail.Negocios.DopplerRelay.Infrastructure\Retail.Negocios.DopplerRelay.Infrastructure.csproj", "{06C574D1-5F62-49D0-9BBB-4692580966C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Retail.Negocios.DopplerRelay.WebUIMaterial", "Retail.Negocios.DopplerRelay.WebUIMaterial\Retail.Negocios.DopplerRelay.WebUIMaterial.csproj", "{FCB2CEB6-4A52-4CC8-8AAA-084C76789B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAFFB6F3-8C3D-4562-8E32-FF4428930D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFFB6F3-8C3D-4562-8E32-FF4428930D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFFB6F3-8C3D-4562-8E32-FF4428930D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFFB6F3-8C3D-4562-8E32-FF4428930D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FF6322-0F9B-48DB-891B-EEFB5F6B7140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FF6322-0F9B-48DB-891B-EEFB5F6B7140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FF6322-0F9B-48DB-891B-EEFB5F6B7140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FF6322-0F9B-48DB-891B-EEFB5F6B7140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5616AE1C-B888-4091-A6AC-D96919D7F801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5616AE1C-B888-4091-A6AC-D96919D7F801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5616AE1C-B888-4091-A6AC-D96919D7F801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5616AE1C-B888-4091-A6AC-D96919D7F801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C574D1-5F62-49D0-9BBB-4692580966C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C574D1-5F62-49D0-9BBB-4692580966C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C574D1-5F62-49D0-9BBB-4692580966C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C574D1-5F62-49D0-9BBB-4692580966C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB2CEB6-4A52-4CC8-8AAA-084C76789B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB2CEB6-4A52-4CC8-8AAA-084C76789B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB2CEB6-4A52-4CC8-8AAA-084C76789B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB2CEB6-4A52-4CC8-8AAA-084C76789B29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E5F483E-60AB-45F1-8A38-6E0999F5E8E2}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
